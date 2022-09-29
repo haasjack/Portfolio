@@ -9,7 +9,9 @@ Check me out on the platforms included below and if you have have any questions 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/haasjack/)
 &nbsp;
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://meta.stackoverflow.com/users/13159994/jack-haas)
+&nbsp;
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/haasjackd)
+
 ## Directory
 
 ### [0 - NYT Sentiment Analysis](./00-NYT_Sentiment_Analysis/)
