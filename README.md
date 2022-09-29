@@ -1,6 +1,6 @@
 # Portfolio - Jack Haas
 
-Thank you for stopping by! This repository serves as a small showcase of some of the computational work I have done. A majority of the included projects were completed either for or alongside my undergraduate coursework. As such, some of the older projects may not be representative of my current level of understanding, but they nonetheless represent the quality of work I strive for.
+Thank you for stopping by! This repository serves as a small showcase of some of the computational work I have done. A majority of the included projects were completed either for or alongside my undergraduate coursework. As such, some of the older projects may not be representative of my current level of understanding, however they represent the quality of work I strive for.
 
 Check me out on the platforms included below and if you have have any questions you can reach me at [haasjackd@gmail.com](mailto:haasjackd@gmail.com).
 
